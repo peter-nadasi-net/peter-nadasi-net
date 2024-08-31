@@ -5,7 +5,7 @@
 - 📫 How to reach me: peter.nadasi.net@outlook.com
 - 😄 Pronouns: Ninja
 - ⚡ Fun fact: My game dev team elected me to organize the project.
-- It was successfully implemented up to its 90%, when all the team members became parents, and left the project.
+- It was successfully implemented up to its 90%, but then all the team members became parents, and left the project.
 
 <!---
 peter-nadasi-net/peter-nadasi-net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
